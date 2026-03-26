@@ -1,52 +1,69 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/KPI_Dashboard.gif" width="400" alt="Industrial KPI Dashboard Gif">
-  
-  <h1 align="center">Olá 👋, eu sou o Luiz Cavalcante</h1>
-  <h3 align="center">Analista de Dados & Especialista em Performance Industrial</h3>
+
+# Luiz Cavalcante  
+### Analista de Dados | Indicadores Industriais (OEE, Eficiência, Performance)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Data%20Analytics%20Portfolio&fontColor=ffffff&fontSize=30"/>
+
 </div>
 
 ---
 
-## 🛠️ Sobre Mim
+## 🎯 Sobre Mim
 
-Profissional com sólida experiência em análise de processos na **Grendene S/A**, focado na transformação de dados brutos de chão de fábrica em inteligência para tomada de decisão estratégica.
+Profissional com experiência na indústria (**Grendene S/A**), atuando na análise de processos e indicadores operacionais.
 
-* 📊 **Foco Atual:** Desenvolvimento de Dashboards de OEE e KPIs industriais ponta-a-ponta.
-* 🌱 **Stack Técnico:** Especialista no ecossistema Microsoft Power Platform e SQL Server.
-* 🚀 **Diferencial:** Uno a visão prática da produção com a capacidade analítica de dados.
-* ⚡ **Curiosidade:** Apaixonado por automação e otimização de fluxos de trabalho.
+Transformo dados em **insights acionáveis** para tomada de decisão, com foco em eficiência, produtividade e melhoria contínua.
 
 ---
 
-## 🚀 Minha Caixa de Ferramentas (Tech Stack)
+## 🚀 O que você vai encontrar aqui
 
-<div align="left">
-  <h4 align="left">Microsoft Power Platform</h4>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Power_Apps-4D0D26?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps">
-  <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  
-  <br>
-
-  <h4 align="left">Dados & Backend</h4>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
+- Projetos de análise de dados aplicados a cenários reais  
+- Dashboards em Power BI com foco em negócio  
+- Modelagem de dados e KPIs industriais  
+- Simulações de problemas reais (produção, eficiência, vendas)
 
 ---
 
-## 📊 Estatísticas do Perfil
+## 🛠️ Stack Principal
+
+**Análise & BI**
+- Power BI (DAX, Modelagem)  
+- Power Query  
+- Excel Avançado  
+
+**Dados**
+- SQL (em evolução)  
+- Tratamento e modelagem de dados  
+
+**Outros**
+- Git & GitHub  
+- Automação de processos  
+
+---
+
+## 📌 Projetos em Destaque
+
+**🔹 Dashboard de Eficiência Industrial (OEE)**  
+Análise de disponibilidade, performance e qualidade, com foco em perdas operacionais.
+
+**🔹 Indicadores Gerenciais**  
+Monitoramento de KPIs para suporte à decisão.
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizCavalcantez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Luiz">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCavalcantez&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Principais">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizCavalcantez&show_icons=true&theme=default"/>
 </div>
 
 ---
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" alt="Banner Final" />
-</div>
+## 🤝 Contato
+
+Aberto a oportunidades em:
+- Analista de Dados Jr  
+- Analista Administrativo (dados)  
+- Analista de Planejamento  
