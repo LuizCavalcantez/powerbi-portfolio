@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIxNmY0NmU5ZTk1NjYwOTU5NmIyOTBiNzA5ZTg3ODhjZmNjN2ZiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfpA0K2z_U/giphy.gif" width="300" alt="Data Analytics Gif">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/KPI_Dashboard.gif" width="400" alt="Industrial KPI Dashboard Gif">
   
   <h1 align="center">Olá 👋, eu sou o Luiz Cavalcante</h1>
   <h3 align="center">Analista de Dados & Especialista em Performance Industrial</h3>
@@ -9,25 +9,29 @@
 
 ## 🛠️ Sobre Mim
 
-Profissional com sólida experiência em análise de processos na **Grendene S/A**, agora aplicando inteligência de dados para otimizar resultados industriais.
+Profissional com sólida experiência em análise de processos na **Grendene S/A**, focado na transformação de dados brutos de chão de fábrica em inteligência para tomada de decisão estratégica.
 
-* 🌱 Atualmente estou aprendendo: **Power BI Avançado, Modelagem DAX e SQL Server.**
-* 🔭 Objetivos: Atuar como Analista de Dados com foco em **Dashboards de OEE e KPIs.**
-* ⚡ Curiosidade: Especialista em indicadores de performance e automação de planilhas.
+* 📊 **Foco Atual:** Desenvolvimento de Dashboards de OEE e KPIs industriais ponta-a-ponta.
+* 🌱 **Stack Técnico:** Especialista no ecossistema Microsoft Power Platform e SQL Server.
+* 🚀 **Diferencial:** Uno a visão prática da produção com a capacidade analítica de dados.
+* ⚡ **Curiosidade:** Apaixonado por automação e otimização de fluxos de trabalho.
 
 ---
 
 ## 🚀 Minha Caixa de Ferramentas (Tech Stack)
 
 <div align="left">
+  <h4 align="left">Microsoft Power Platform</h4>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_Apps-4D0D26?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps">
+  <img src="https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   
   <br>
 
+  <h4 align="left">Dados & Backend</h4>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
