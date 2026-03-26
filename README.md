@@ -1,55 +1,46 @@
 <div align="center">
 
 # Luiz Cavalcante  
-### Analista de Dados | Indicadores Industriais (OEE, Eficiência, Performance)
+**Analista de Dados Jr | Power BI · SQL · ETL · Business Intelligence**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Data%20Analytics%20Portfolio&fontColor=ffffff&fontSize=30"/>
+📍 Sobral, CE | Remoto · Híbrido · Presencial  
+📞 +55 (88) 99307-0890 | ✉ luizcavalcantes@gmail.com  
+🔗 https://linkedin.com/in/luizccavalcante  
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 🎯 Sobre
 
 Profissional com experiência na indústria (**Grendene S/A**), atuando na análise de processos e indicadores operacionais.
 
-Transformo dados em **insights acionáveis** para tomada de decisão, com foco em eficiência, produtividade e melhoria contínua.
+Foco em transformar dados em **insights acionáveis** para tomada de decisão, com ênfase em eficiência, produtividade e melhoria contínua.
 
 ---
 
-## 🚀 O que você vai encontrar aqui
+## 🛠️ Stack
 
-- Projetos de análise de dados aplicados a cenários reais  
-- Dashboards em Power BI com foco em negócio  
-- Modelagem de dados e KPIs industriais  
-- Simulações de problemas reais (produção, eficiência, vendas)
+**Análise & BI**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
----
+**Dados**  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-## 🛠️ Stack Principal
-
-**Análise & BI**
-- Power BI (DAX, Modelagem)  
-- Power Query  
-- Excel Avançado  
-
-**Dados**
-- SQL (em evolução)  
-- Tratamento e modelagem de dados  
-
-**Outros**
-- Git & GitHub  
-- Automação de processos  
+**Outros**  
+![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos
 
-**🔹 Dashboard de Eficiência Industrial (OEE)**  
-Análise de disponibilidade, performance e qualidade, com foco em perdas operacionais.
+### 🔹 Dashboard de Eficiência Industrial (OEE)
+Análise de disponibilidade, performance e qualidade, com foco na identificação de perdas operacionais e melhoria de eficiência.
 
-**🔹 Indicadores Gerenciais**  
-Monitoramento de KPIs para suporte à decisão.
+> Em desenvolvimento — em breve com preview e link
 
 ---
 
@@ -58,12 +49,3 @@ Monitoramento de KPIs para suporte à decisão.
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizCavalcantez&show_icons=true&theme=default"/>
 </div>
-
----
-
-## 🤝 Contato
-
-Aberto a oportunidades em:
-- Analista de Dados Jr  
-- Analista Administrativo (dados)  
-- Analista de Planejamento  
