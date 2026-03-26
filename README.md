@@ -23,11 +23,17 @@ Foco em transformar dados em **insights acionáveis** para tomada de decisão, c
 
 **Análise & BI**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1E90FF?style=flat)
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Dados**  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-6A5ACD?style=flat)
+
+**Automação & Processos**  
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat)
+![ETL](https://img.shields.io/badge/ETL-FF8C00?style=flat)
 
 **Outros**  
 ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
