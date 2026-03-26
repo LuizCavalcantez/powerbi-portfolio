@@ -40,3 +40,9 @@ Profissional com sólida experiência em análise de processos na **Grendene S/A
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCavalcantez&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Principais">
 </div>
+
+---
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" alt="Banner Final" />
+</div>
