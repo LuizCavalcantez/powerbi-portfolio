@@ -1,20 +1,19 @@
-# Olá, eu sou o Luiz Cavalcante! 👋 
-### Analista de Dados & Especialista em Performance Industrial
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIxNmY0NmU5ZTk1NjYwOTU5NmIyOTBiNzA5ZTg3ODhjZmNjN2ZiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfpA0K2z_U/giphy.gif" width="300" alt="Data Analytics Gif">
+  
+  <h1 align="center">Olá 👋, eu sou o Luiz Cavalcante</h1>
+  <h3 align="center">Analista de Dados & Especialista em Performance Industrial</h3>
 </div>
 
 ---
 
 ## 🛠️ Sobre Mim
 
-Estou em transição de carreira, migrando de uma sólida experiência como **Analista de Processos Industriais** na **Grendene** para a área de **Data Analytics**. Meu diferencial é unir o conhecimento prático de chão de fábrica com a inteligência de dados para gerar eficiência real.
+Profissional com sólida experiência em análise de processos na **Grendene S/A**, agora aplicando inteligência de dados para otimizar resultados industriais.
 
-* 🔭 Atualmente focado no desenvolvimento de **Dashboards de OEE** (Eficiência Global de Equipamentos).
-* 🌱 Aprofundando meus conhecimentos em **SQL Server** e **Modelagem DAX** avançada.
-* 💬 Vamos conversar sobre **Indústria 4.0**, **KPIs** e como transformar dados brutos em decisões estratégicas.
-* 📫 Como me encontrar: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+* 🌱 Atualmente estou aprendendo: **Power BI Avançado, Modelagem DAX e SQL Server.**
+* 🔭 Objetivos: Atuar como Analista de Dados com foco em **Dashboards de OEE e KPIs.**
+* ⚡ Curiosidade: Especialista em indicadores de performance e automação de planilhas.
 
 ---
 
@@ -34,18 +33,10 @@ Estou em transição de carreira, migrando de uma sólida experiência como **An
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do Perfil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizCavalcantez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Luiz">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCavalcantez&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Principais">
-</div>
-
----
-
-<div align="center">
-  <sub>Adicione um toque pessoal aqui, como uma frase que te inspire ou um GIF divertido!</sub>
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdiOGRhMDFmZjRlZGRhOTBkOGUzZTY5YzZlODdjMzQwN2U5NDdkYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlHFRbmaZtBRhXa/giphy.gif" width="150" alt="Data Science Fun">
 </div>
